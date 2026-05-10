@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Fernando Figueredo
 
-<!--
-**FerFigueredo97/FerFigueredo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Formación
+- Tecnicatura en Desarrollo de Software – Universidad Provincial de Ezeiza
+- 2.º año (cursando el segundo ciclo)
 
-Here are some ideas to get you started:
+## 💻 Tecnologías
+Me desempeño con varios lenguajes porque mi carrera está pensada para aprender cualquier stack rápidamente:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **C#**
+- **C++**
+- **Python**
+- **JavaScript** (lo usé en algunos proyectos anteriores)
+
+## 🚀 Áreas de interés
+Me entusiasma desarrollar:
+- Aplicaciones de escritorio
+- Juegos (indie y prototipos)
+- Apps móviles
+
+## 🤝 Qué busco en GitHub
+- Aprender nuevas técnicas y buenas prácticas
+- Colaborar en proyectos open‑source y de clase
+- Aportar código y documentación
+- Encontrar oportunidades laborales o pasantías
+
+## 📫 Contacto
+- **Correo:** figueredofernando97@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/ferfigueredo97
+
+## 🎸 Un dato curioso
+Toco el bajo en mi tiempo libre;

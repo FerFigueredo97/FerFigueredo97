@@ -3,6 +3,7 @@
 ## 🎓 Formación
 - Tecnicatura en Desarrollo de Software – Universidad Provincial de Ezeiza
 - 2.º año (cursando el segundo ciclo)
+- Diplomatura de Python (cursando)
 
 ## 💻 Tecnologías
 Me desempeño con varios lenguajes porque mi carrera está pensada para aprender cualquier stack rápidamente:
